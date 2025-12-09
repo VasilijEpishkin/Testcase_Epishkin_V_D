@@ -1,0 +1,10 @@
+id,sequence,unnatural_aa_count,aa_length,C_terminal,branch_site,C_count_tail,abs_glp1r,abs_gipr,abs_gcgr
+GPX-007,Y[2meA]QGTFTSDYSI[2meL]LDKKAAQAFIE YLLE[2meA]GPSSGAPPPS,3,39,amide,K17 (Moiety G),20,ND,ND,ND
+Retatrutide,Y[Aib]QGTFTSDYSI[αMeL]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety B),20,8.3 (pM),5.99 (pM),9.63 (pM)
+Comp 12,Y[Aib]QGTFTSDYSI[αMeL]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety A),18,11.96 (nM),12.04 (nM),6.99 (nM)
+Comp 13,Y[Aib]QGTFTSDYSI[αMeL]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety B),20,>2.4 (nM),>1.5 (nM),>1.8 (nM)
+Comp 14,Y[Aib]QGTFTSDYSI[norleucine]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety B),20,8.54 (nM),24.03 (nM),20.89 (nM)
+Comp 17,Y[Aib]QGTFTSDYSI[norvaline]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety B),20,8.7 (pM),11.48 (pM),13.33 (pM)
+Comp 18,Y[Aib]QGTFTSDYSI[norvaline]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety G),20,17.33 (pM),22.68 (pM),193.2 (pM)
+Comp 19,Y[Aib]QGTFTSDYSI[αMeL]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety C),18,11.61 (pM),13.79 (pM),109.1 (pM)
+Comp 20,Y[Aib]QGTFTSDYSI[αMeL]LDKKAAQ[Aib]AFIE YLLEGGGPSSGAPPPS,3,39,amide,K17 (Moiety D),20,14.37 (pM),18.1 (pM),139.8 (pM)
